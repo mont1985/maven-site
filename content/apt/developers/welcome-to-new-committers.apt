@@ -55,6 +55,8 @@ Guide for new Maven committers
 
  * {{{/developers/committer-environment.html}Setup your committer environment}}
 
+ * {{{/developers/github-pull-requests.html}Working with pull requests on Github}}
+
  []
 
  And here are the specifics on setting up your Git access:

@@ -185,6 +185,7 @@ under the License.
           <item name="Plugins Retirement Plan" href="/developers/retirement-plan-plugins.html"/>
           <item name="Maven Dependency Policies" href="/developers/dependency-policies.html"/>
           <item name="Compatibility Plan" href="/developers/compatibility-plan.html"/>
+          <item name="Github pull requests" href="/developers/github-pull-requests.html" />
         </item>
       </item>
       <item name="Books and Resources" href="/articles.html" />
